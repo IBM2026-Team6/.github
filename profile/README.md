@@ -1,4 +1,4 @@
-# 2026 IBM-Hackthon Team6
+# [🏆 최우수상] 2026 IBM-Hackthon Team6
 
 > KNU X GWNU X IBM Hackathon Project
 > <img width="1291" height="598" alt="image" src="https://github.com/user-attachments/assets/5b15d076-9792-43b7-b2ae-e504613ffce0" />
@@ -60,3 +60,5 @@
      </td>
  </tr>
 </table>
+
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/47c5e6e0-cc0d-4ca9-ad28-338e08bef872" />
